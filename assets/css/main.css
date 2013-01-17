@@ -1,0 +1,8 @@
+body, html { margin:0; padding: 0; overflow:hidden; font-family:Arial; font-size:20px }
+body {-webkit-tap-highlight-color: rgba(0,0,0,0);  margin: 0;}
+#cr-stage { border:2px solid black; margin:5px auto;}
+.no-js {}
+.lt-ie9 {}
+.lt-ie8 {}
+.lt-ie7 {}
+ .chromeframe { }

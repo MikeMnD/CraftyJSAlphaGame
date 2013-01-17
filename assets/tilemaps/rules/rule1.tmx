@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="MikeTile" tilewidth="32" tileheight="32">
+  <image source="../../images/9ywlq.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="193" name="meta_tiles" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="../../images/meta_tiles.png" width="67" height="34"/>
+ </tileset>
+ <tileset firstgid="195" name="MikeTile1" tilewidth="32" tileheight="32">
+  <image source="../../images/MikeTile1.png" width="320" height="320"/>
+ </tileset>
+ <layer name="regions" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztxTENAAAIA7D5t4Ux/gkgHO3ThG+mBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgzgJGBAGH
+  </data>
+ </layer>
+ <layer name="input_Fringe" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztzqENAAAIwDAcN/H/Yxh+gITWzC6Ca3JaqxcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD81R8EAQQ==
+  </data>
+ </layer>
+ <layer name="output_Collision" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIwDD8uwJlPHiAhPbZuwiuyWmtXgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/NR16gGE
+  </data>
+ </layer>
+</map>

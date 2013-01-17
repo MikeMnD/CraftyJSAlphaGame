@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="MikeTile" tilewidth="32" tileheight="32">
+  <image source="../images/9ywlq.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="193" name="meta_tiles" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="../images/meta_tiles.png" width="67" height="34"/>
+ </tileset>
+ <tileset firstgid="195" name="MikeTile1" tilewidth="32" tileheight="32">
+  <image source="../images/MikeTile1.png" width="320" height="320"/>
+ </tileset>
+ <imagelayer name="ReferenceImage" width="100" height="100" visible="0"/>
+ <layer name="Background" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0SESgDAQBMEo/v+nfAyDiiaVoWjR5tztzDHGXFyP9c4ZerTo0aJHix4terTo0aJHix4terTo0aJHix4terTo0dh/t9N/foUebW/vp0drPz1a++nR2k+P1n56tPbTo7WfHvYDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPi7GzhRcDQ=
+  </data>
+ </layer>
+ <layer name="Fringe" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt18EJwCAQRUHvdpT+C7OBRMFN4j/MwIKQ2z5Q0hoA1PWHM2fokUWPLHpk0SOLHln0yKJHFj2y6HFWv5nZt+ow9+eO9FjTI8vqvrqK4z2qeXt/etTokUWPLHpk0SOLHlm+6OH/fJ/9AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC7BnMMB5U=
+  </data>
+ </layer>
+</map>
