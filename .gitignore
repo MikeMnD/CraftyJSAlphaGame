@@ -37,5 +37,11 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
+.gitignore
 *.suo
 *.exclude
+*.sln
+*.config
+*.user
+_dev/
+_ReSharper.SOD/
